@@ -1,0 +1,9 @@
+streamlit
+requests
+plotly
+pandas
+openai
+qrcode[pil]
+Pillow
+pages
+
